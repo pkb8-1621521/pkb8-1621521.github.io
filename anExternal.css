@@ -1,0 +1,18 @@
+/* anExternal.css */
+body {
+    background-color: #00c0e2;
+    color: #FFFFFF;
+   }
+   h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    Font-family: Courier;
+    Font-size: 400%
+   }
+   p {
+    background-color: #01C4C4;
+    color: #ffffff;
+    text-align: Left;
+    Font-family: Verdana;
+    Font-size: 300% 
+   }
